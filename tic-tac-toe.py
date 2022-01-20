@@ -1,3 +1,9 @@
+'''
+Tic-Tac-Toe
+W02 Prove: Developer - Solo Code Submission
+Author: Adam Muy
+'''
+
 def main():
     action = " "
     turn = True
